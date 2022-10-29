@@ -1,6 +1,6 @@
 # About me
 
-##Information
+## Information
 
 1. About me 
    
@@ -14,7 +14,7 @@
    
    ![Hobby](Img/Hobby.jpg)
 
-##Interesting facts
+## Interesting facts
 
 - First fact
 - Second fact
